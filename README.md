@@ -13,7 +13,8 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ogt-inc&repo=WhiteChivo&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OGT-inc
+&repo=WhiteChivo&theme=tokyonight" />
 
 </a>  
 
